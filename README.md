@@ -2,7 +2,7 @@
 
 | :warning: WARNING          |
 |:---------------------------|
-| THIS REPO HAS BEEN MOVED TO THE THALES-GitHub-Account. Please see <https://github.com/thalescpl-io/dke-service-setup> for the most recent version of this repository. |
+| **THIS REPO HAS BEEN MOVED** to the ThalesGroup-GitHub-Account. Please see <https://github.com/ThalesGroup/dke-service-setup> for the most recent version of this repository. |
 
 Instructions and small scripts/samples to ease the deployment of THALES' Luna Key Broker for DKE on Microsoft's AKS.
 
